@@ -1,9 +1,8 @@
 # 💫 About Me:
-About me - Python  , SQL , Java , Web Development.<br>Fun fact I play Video Games too.<br>Reach me at anmolsingh21148@gmail.com
+About me - Python  , SQL , Java , Web Development.<br>Fun fact I play Video Games too.<br>Reach me at anmolsingh21148@gmail.com <br>My portfolio - https:/AnmolSingh1324.github.io/Portfolio/
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anmol-singh-1169852b4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anmolsingh21148@gmail.com) 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="100"> 
 <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
