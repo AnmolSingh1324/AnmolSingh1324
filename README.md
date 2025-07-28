@@ -9,6 +9,7 @@ About me - Python  , SQL , Java , Web Development.<br>Fun fact I play Video Game
 <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="100">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c79649a-b04c-4c78-998f-c126db48305c" width="75">&nbsp; 
 </div>
 
 # 💻 Tech Stack:
