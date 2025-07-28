@@ -1,5 +1,6 @@
 # 💫 About Me:
-About me - Python  , SQL , Java , Web Development.<br>Fun fact I play Video Games too.<br>Reach me at anmolsingh21148@gmail.com <br>My portfolio - https:/AnmolSingh1324.github.io/Portfolio/
+About me - Python  , SQL , Java , Web Development.<br>Fun fact I play Video Games too.<br>Reach me at anmolsingh21148@gmail.com <br>My portfolio - https:/AnmolSingh1324.github.io/Portfolio/ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
+<br><br>
 
 
 ## 🌐 Socials:
