@@ -29,9 +29,10 @@
 
 **Languages**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -39,28 +40,48 @@
 
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1A1A1A?style=for-the-badge&logo=openai&logoColor=white)
-![Semantic Search](https://img.shields.io/badge/Semantic_Search-4B8BBE?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1A1A1A?style=for-the-badge&logoColor=white)
+![Structured Output](https://img.shields.io/badge/Structured_JSON_Output-292929?style=for-the-badge&logo=json&logoColor=white)
+![LLM App Design](https://img.shields.io/badge/LLM_App_Design-3B3B98?style=for-the-badge&logoColor=white)
+
+**RAG & Agentic AI**
+
+![RAG](https://img.shields.io/badge/RAG_Pipelines-4B8BBE?style=for-the-badge&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings_&_Vector_DBs-0B7285?style=for-the-badge&logoColor=white)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-1D6F8C?style=for-the-badge&logoColor=white)
+![Function Calling](https://img.shields.io/badge/Function_/_Tool_Calling-5A189A?style=for-the-badge&logoColor=white)
+![Agent Workflows](https://img.shields.io/badge/Agent_Workflows-7B2CBF?style=for-the-badge&logoColor=white)
 
 **Frontend & Backend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-2C3E50?style=for-the-badge&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/RESTful_API_Design-005571?style=for-the-badge&logo=swagger&logoColor=white)
 
-**Database, Tools & Cloud**
+**Database, Tools & CI/CD**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+**AI-Assisted Development**
+
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Prompt-Driven Prototyping](https://img.shields.io/badge/Prompt--Driven_Prototyping-6E4B3A?style=for-the-badge&logoColor=white)
+![AI Code Review](https://img.shields.io/badge/AI--Assisted_Code_Review-4A4A4A?style=for-the-badge&logoColor=white)
+
+**ML & NLP** — text summarization, LSTM/GPT text generation, speech recognition, image captioning, recommendation systems
+
+**Concepts** — OOP · MVC Architecture · Authentication & Authorization · Agile fundamentals
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="90">
