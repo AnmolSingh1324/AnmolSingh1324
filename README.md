@@ -82,20 +82,4 @@
 - Designed RESTful APIs for authentication, job listings, and applications; modeled and persisted data in MySQL
 
 ---
-
-## 🧪 Experience
-
-**Artificial Intelligence Intern — Codtech IT Solutions** · May – Jun 2025 · Remote
-- Built 4 Python AI projects: generative text summarization, speech recognition, neural style transfer, and GPT/LSTM text generation — every assigned task delivered on schedule
-- Published documented source for all tasks to a public repo, applying version-control best practices
-
-**Artificial Intelligence Intern (Virtual) — CodSoft** · May – Jun 2025 · Remote
-- 4-week internship completed with excellent remarks: rule-based chatbot, Tic-Tac-Toe game AI, image-captioning model, and recommendation system
-- Maintained all projects publicly with per-task documentation and a clean commit history
-
-**Independent IT Support** · 2021 – Present
-- Diagnosed and repaired 137+ PCs and laptops — hardware faults (RAM, storage, PSU), OS corruption, driver conflicts, connectivity issues
-- Configured Windows, drivers, and business software; resolved LAN/WiFi, IP/DNS, and printer/shared-resource issues, explaining fixes to non-technical users in plain language
-
----
 <div align="center"> <sub>📌 See my pinned repositories below for featured work.</sub> </div>
