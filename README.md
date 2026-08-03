@@ -99,26 +99,4 @@
 - Configured Windows, drivers, and business software; resolved LAN/WiFi, IP/DNS, and printer/shared-resource issues, explaining fixes to non-technical users in plain language
 
 ---
-
-## 🎓 Education
-
-- **MCA — Master of Computer Applications**, Amity University · 2024 – 2026 · CGPA 8.53
-- **BCA — Bachelor of Computer Applications**, Regional College, Bareilly · 2021 – 2024
-
----
-
-## 📜 Certifications
-
-- **Digital 101 Journey** — FutureSkills Prime (NASSCOM & MeitY), Feb 2025 · AICTE-verified digital fluency program
-- **Adobe Marketing Specialist Professional Certificate** — Coursera & Adobe, Jan 2026 · 5-course program incl. Generative AI Content Creation
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AnmolSingh1324&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolSingh1324&layout=compact&theme=tokyonight&hide_border=true" width="40%">
-<br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnmolSingh1324&theme=tokyonight&hide_border=true" width="60%">
-</div>
+<div align="center"> <sub>📌 See my pinned repositories below for featured work.</sub> </div>
