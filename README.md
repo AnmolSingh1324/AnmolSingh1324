@@ -79,9 +79,14 @@
 ![Prompt-Driven Prototyping](https://img.shields.io/badge/Prompt--Driven_Prototyping-6E4B3A?style=for-the-badge&logoColor=white)
 ![AI Code Review](https://img.shields.io/badge/AI--Assisted_Code_Review-4A4A4A?style=for-the-badge&logoColor=white)
 
-**ML & NLP** — text summarization, LSTM/GPT text generation, speech recognition, image captioning, recommendation systems
+**ML & NLP**
 
-**Concepts** — OOP · MVC Architecture · Authentication & Authorization · Agile fundamentals
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="90">
