@@ -1,7 +1,7 @@
 # Hi, I'm Anmol Singh 👋
 
 🎓 **MCA candidate** — Amity University (2026), CGPA 8.53<br>
-🤖 **Generative AI developer** — building LLM-powered apps with the OpenAI & Gemini APIs, structured JSON output parsing, and prompt engineering<br>
+🤖 **Generative AI developer** — building LLM-powered apps with the OpenAI , Gemini APIs & Claude APIs , structured JSON output parsing, and prompt engineering<br>
 💻 **Full-stack engineer** — React.js on the front, Spring Boot + Spring Security + JPA + MySQL on the back<br>
 🧪 **Two AI internships** (Codtech IT Solutions & CodSoft) — 8 Python projects across text summarization, GPT/LSTM text generation, speech recognition, neural style transfer, image captioning, and recommendation systems<br>
 🚀 **Featured build:** an AI-Powered Job Recruitment Portal — resumes parsed into structured JSON by an LLM, then scored for candidate–job fit with an explanation attached<br>
