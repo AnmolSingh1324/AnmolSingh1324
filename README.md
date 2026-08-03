@@ -22,4 +22,4 @@ AI-Powered Job Recruitment Portal — Full-stack platform (React.js + Python) wh
 Adobe Marketing Specialist Professional Certificate — Coursera & Adobe (Jan 2026)
 Digital 101 Journey — FutureSkills Prime, NASSCOM & MeitY (Feb 2025)
 📊 GitHub Stats:
-<div align="center"> <br><br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnmolSingh1324&theme=tokyonight&hide_border=true"> </div> <div align="center"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500"> <br><br> <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"> <br><br> </div>
+<div align="center"> <br><br> </div> <div align="center"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500"> <br><br> <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"> <br><br> </div>
