@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🎓  MCA candidate at Amity University, Greater Noida (2026) — CGPA 8.53<br> 💻  Full-stack developer — React.js on the front, Spring Boot + MySQL on the back<br> 🤖  Two AI internships (Codtech IT Solutions & CodSoft) — 8 Python projects across NLP, text summarization, speech recognition, image captioning, and recommendation systems<br> 🚀  Built an AI-Powered Job Recruitment Portal end to end — candidate profiles, resume uploads, and AI-matched job recommendations<br> ⚡  I work with AI-assisted development workflows (GitHub Copilot, Claude) to prototype, debug, and ship faster<br> 🎯  Currently looking for a junior software developer role building scalable, production-ready applications<br> 🎮  Fun fact: I play video games too<br> 📫LinkedIn : www.linkedin.com/in/anmol-singh-1169852b4 <br> 📫  Reach me at anmolsingh21148@gmail.com<br> 🌐  Portfolio → https://AnmolSingh1324.github.io/Portfolio/ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600"> <br><br>
 
 🌐 Socials:
